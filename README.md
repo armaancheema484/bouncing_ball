@@ -8,7 +8,11 @@ A Python simulation of a small red ball bouncing inside a spinning hexagon. The 
 
 ## Demo
 
-![Bouncing Ball Simulation Demo](./images/demo.gif)
+<div align="center">
+  <a href="">
+    <img src="https://youtu.be/jZo-7a75fYw?si=Z-suRef2bLiX8QCs" alt="Bouncing Ball Simulation Demo">
+  </a>
+</div>
 
 ---
 
