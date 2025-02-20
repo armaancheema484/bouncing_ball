@@ -42,7 +42,7 @@ A Python simulation of a small red ball bouncing inside a spinning hexagon. The 
 
 ## How it works
 
-###Key Components
+### Key Components
 
 1. Hexagon Rotation:
 
