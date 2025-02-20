@@ -9,7 +9,7 @@ A Python simulation of a small red ball bouncing inside a spinning hexagon. The 
 ## Demo
 
 <div align="center">
-[![Watch the video](https://www.youtube.com/watch?v=jZo-7a75fYw)](https://www.youtube.com/watch?v=jZo-7a75fYw)
+[![Video](https://www.youtube.com/watch?v=jZo-7a75fYw)](https://www.youtube.com/watch?v=jZo-7a75fYw)
 </div>
 
 ---
